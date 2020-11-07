@@ -15,7 +15,7 @@ function navAnimation(direction1, direction2) {
 }
 
 function toggleNav() {
-  // toglle menu bars closed/open
+  // toggle menu bars closed/open
   menuBars.classList.toggle('change');
   // toggle menu active
   overlay.classList.toggle('overlay-active');
